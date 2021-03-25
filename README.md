@@ -1,6 +1,12 @@
 # smd-reworking-station
 this project aims to create an open source hot air station(smd reworking station),this project is not perfect and anyone is free to use this and make it better this machine works based on pid to maintain the temperature accurately
 
+Based on the work by ELDHO-KURIAN https://github.com/ELDHO-KURIAN/smd-reworking-station
+eldhokurian123456789(at)gmail.com
+
+# if you want to support HIM
+paypal.me/eldhokurianatom
+
 <image src="images/IMG_20200725_164713.jpg" width="500">
   
   # FEATURES
@@ -46,7 +52,4 @@ after soldering it should look something like this :
 
 <image src="images/IMG_20200725_205303.jpg" width="500"> 
 
-**for more help or assistance contact me at eldhokurian123456789@gmail.com**
 
-# if you want to support me
-paypal.me/eldhokurianatom
