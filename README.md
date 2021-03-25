@@ -4,7 +4,7 @@ this project aims to create an open source hot air station(smd reworking station
 Based on the work by ELDHO-KURIAN https://github.com/ELDHO-KURIAN/smd-reworking-station
 eldhokurian123456789(at)gmail.com
 
-# if you want to support HIM
+If you want to support HIM
 paypal.me/eldhokurianatom
 
 <image src="images/IMG_20200725_164713.jpg" width="500">
